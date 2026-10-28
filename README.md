@@ -1,4 +1,4 @@
-# AXIOM | Math
+# Wissenschaftsrechner / Scientific Calculator
 
 *English version below.*
 
